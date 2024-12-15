@@ -4,11 +4,13 @@ Java版ddddocr验证码识别
 
 ## 导入pom文件
 
-`<dependency>
+```xml
+<dependency>
       <groupId>space.shenmuyan.org</groupId>
       <artifactId>ddddocr</artifactId>
       <version>1.0.0</version>
-</dependency>`
+</dependency>
+```
 
 ## 简单用法
 
