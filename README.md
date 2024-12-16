@@ -3,12 +3,20 @@
 Java版ddddocr验证码识别
 
 ## 导入pom文件
-
+jdk17+
 ```xml
 <dependency>
       <groupId>space.shenmuyan.org</groupId>
       <artifactId>ddddocr</artifactId>
       <version>1.0.0</version>
+</dependency>
+```
+jdk8+
+```xml
+<dependency>
+      <groupId>space.shenmuyan.org</groupId>
+      <artifactId>ddddocr</artifactId>
+      <version>2.0.0</version>
 </dependency>
 ```
 
